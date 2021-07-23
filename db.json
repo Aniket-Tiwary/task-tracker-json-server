@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "tasks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "text": "Meet for lunch",
+      "day": "Friday evening",
+      "reminder": false,
+      "id": 3
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "text": "Basketball Practice",
+      "day": "Friday at 6 PM",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
